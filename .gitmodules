@@ -1,0 +1,12 @@
+[submodule "knausj_talon"]
+	path = knausj_talon
+	url = https://github.com/SCdF/knausj_talon/
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/pokey/cursorless-talon/
+[submodule "mouse_guide"]
+	path = mouse_guide
+	url = https://github.com/tararoys/mouse_guide.git
+[submodule "dense-mouse-grid"]
+	path = dense-mouse-grid
+	url = https://github.com/tararoys/dense-mouse-grid.git
