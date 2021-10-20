@@ -1,6 +1,6 @@
 [submodule "knausj_talon"]
 	path = knausj_talon
-	url = https://github.com/SCdF/knausj_talon/
+	url = git@github.com:SCdF/knausj_talon.git
 [submodule "cursorless-talon"]
 	path = cursorless-talon
 	url = https://github.com/pokey/cursorless-talon/
