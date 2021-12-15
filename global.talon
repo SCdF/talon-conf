@@ -1,6 +1,6 @@
 settings():
     # minimum silence time (in seconds) before speech is cut off, default 0.3
-    speech.timeout = 0.3
+    speech.timeout = 0.35
 
 again: core.repeat_command(1)
 more: core.repeat_command(1)
