@@ -13,7 +13,7 @@ clap: key(enter)
 
 toggle toggle: key(alt-ctrl-shift-t)
 
-# silly stuff
+# talon development stuff
 just windows please: user.window_list()
-
 dump screens: user.screens()
+cursorless test: user.vscode("cursorless.recordTestCase")

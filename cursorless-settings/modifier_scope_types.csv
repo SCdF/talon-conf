@@ -30,3 +30,6 @@ token, token
 type, type
 value, value
 word, word
+
+# 2021-12-21 11:44:04 - New entries automatically added by cursorless
+condition, condition

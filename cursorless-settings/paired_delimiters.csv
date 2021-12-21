@@ -9,3 +9,9 @@ graves, backtickQuotes
 square, squareBrackets
 twin, singleQuotes
 void, whitespace
+
+
+# 2021-12-21 11:44:04 - New entries automatically added by cursorless
+escaped round, escapedParentheses
+escaped square, escapedSquareBrackets
+pair, any

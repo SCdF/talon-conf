@@ -2,3 +2,8 @@ Spoken form, Cursorless identifier
 source, previousSource
 that, previousTarget
 this, currentSelection
+
+# 2021-12-21 11:44:05 - New entries automatically added by cursorless
+down, lineNumberRelativeDown
+row, lineNumberModulo100
+up, lineNumberRelativeUp
