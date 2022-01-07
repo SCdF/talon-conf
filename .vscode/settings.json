@@ -1,3 +1,5 @@
 {
-  "python.analysis.extraPaths": ["./knausj_talon/tests/stubs"]
+  "python.analysis.extraPaths": ["./knausj_talon/tests/stubs"],
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "latex"]
 }
