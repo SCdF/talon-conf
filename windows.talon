@@ -3,3 +3,5 @@ mode: all
 -
 windows wake: speech.enable()
 windows sleep: speech.disable()
+mac wake: skip()
+mac sleep: skip()
