@@ -1,5 +1,5 @@
 os: windows
 mode: all
 -
-focus mac: speech.disable()
-focus windows: speech.enable()
+talon mac: speech.disable()
+talon windows: speech.enable()
