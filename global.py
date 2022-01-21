@@ -4,11 +4,11 @@ import pprint
 
 mod = Module()
 
-pop_to_wake = True
-def on_pop(active):
-  if (pop_to_wake and not actions.speech.enabled()):
-    actions.speech.enable()
-noise.register("pop", on_pop)
+# pop_to_wake = True
+# def on_pop(active):
+#   if (pop_to_wake and not actions.speech.enabled()):
+#     actions.speech.enable()
+# noise.register("pop", on_pop)
 
 @mod.action_class
 class Actions:
@@ -22,14 +22,14 @@ class Actions:
     """asdfasdf"""
     print(ui.screens())
 
-  def disable_pop_to_wake():
-    """123"""
-    global pop_to_wake
-    print("disabling pop to wake?")
-    pop_to_wake = False
+  # def disable_pop_to_wake():
+  #   """123"""
+  #   global pop_to_wake
+  #   print("disabling pop to wake?")
+  #   pop_to_wake = False
 
-  def enable_pop_to_wake():
-    """456"""
-    global pop_to_wake
-    print("enabling pop to wake?")
-    pop_to_wake = True
+  # def enable_pop_to_wake():
+  #   """456"""
+    # global pop_to_wake
+    # print("enabling pop to wake?")
+    # pop_to_wake = True

@@ -3,14 +3,14 @@ escaped quad, escapedDoubleQuotes
 escaped twin, escapedSingleQuotes
 quad, doubleQuotes
 round, parentheses
-graves, backtickQuotes
 twin, singleQuotes
 void, whitespace
 
-# renamed these to fix a bug
-curlies, curlyBrackets
-angles, angleBrackets
-squares, squareBrackets
+# customized
+graved, backtickQuotes
+curled, curlyBrackets
+angled, angleBrackets
+squared, squareBrackets
 
 # 2021-12-21 11:44:04 - New entries automatically added by cursorless
 escaped round, escapedParentheses
